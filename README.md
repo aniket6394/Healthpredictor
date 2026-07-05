@@ -242,15 +242,6 @@ Add screenshots of:
 - 🧠 Additional Disease Prediction Models
 - ☁ Cloud Deployment
 - 📧 Email Reports
-
----
-
-## Author
-
-**Anubhav**
-
-GitHub: https://github.com/GTanubhav
-
 ---
 
 ## Disclaimer
