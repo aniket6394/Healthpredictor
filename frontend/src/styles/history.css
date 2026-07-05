@@ -1,0 +1,45 @@
+.history-container{
+
+    margin-top:40px;
+
+    margin-bottom:60px;
+
+}
+
+.history-title{
+
+    color:#1565c0;
+
+    text-align:center;
+
+    font-weight:bold;
+
+    margin-bottom:30px !important;
+
+}
+
+.history-table{
+
+    border-radius:20px !important;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+
+}
+
+.history-table th{
+
+    background:#1976d2;
+
+    color:white;
+
+    font-weight:bold;
+
+}
+
+.history-table tr:hover{
+
+    background:#f4f8fb;
+
+}

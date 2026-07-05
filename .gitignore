@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# ML Models (optional)
+*.joblib
+*.pkl
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log

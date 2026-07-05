@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+
+    background:#f4f7fb;
+
+    color:#333;
+
+}
+
+a{
+
+    text-decoration:none;
+
+}
+
+button{
+
+    text-transform:none !important;
+
+}
+
+.MuiContainer-root{
+
+    padding-top:30px;
+
+    padding-bottom:30px;
+
+}

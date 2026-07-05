@@ -1,0 +1,43 @@
+.navbar{
+
+    background:#1565c0 !important;
+
+}
+
+.nav-btn{
+
+    color:white !important;
+
+    margin-left:10px !important;
+
+    font-weight:600 !important;
+
+    border-radius:8px !important;
+
+    padding:8px 15px !important;
+
+    transition:.3s;
+
+}
+
+.nav-btn:hover{
+
+    background:rgba(255,255,255,.15);
+
+}
+
+.active-nav-btn{
+
+    color:#1565c0 !important;
+
+    background:white !important;
+
+    margin-left:10px !important;
+
+    font-weight:bold !important;
+
+    border-radius:8px !important;
+
+    padding:8px 15px !important;
+
+}
