@@ -2,7 +2,6 @@
 
 An AI-powered web application that predicts the risk of **Diabetes** and **Heart Disease** using Machine Learning models. The project provides secure user authentication, prediction history, and an intuitive dashboard built with FastAPI and React.
 
----
 
 ## 📌 Features
 
